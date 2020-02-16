@@ -1,0 +1,2 @@
+pacstrap /mnt base base-devel zsh neovim git sudo efibootmgr dialog
+wpa_supplicant intel-ucode linux linux-firmware lvm2
